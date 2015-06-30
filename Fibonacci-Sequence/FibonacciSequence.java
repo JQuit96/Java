@@ -6,7 +6,7 @@ package fibonacciSequence;
 
 /**
  * @author Julian D. Quitian
- * @date 6/19/15
+ * @date 6/30/15
  */
 
 import java.util.Scanner;
