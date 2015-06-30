@@ -3,7 +3,7 @@ package CO2Footprints;
  * @purpose: To estimate the pounds of CO2 a household will emit.
  *
  * @author: Julian D. Quitian
- * @version: November 16, 2013
+ * @version: 11/30/2015
  */
 public class CO2Footprint
 {
