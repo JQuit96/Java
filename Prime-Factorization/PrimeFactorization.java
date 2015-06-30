@@ -7,7 +7,7 @@ package primeFactorization;
 
 /**
  * @author Julian D. Quitian
- * @date 6/27/2015
+ * @date 6/30/2015
  */
 
 import java.util.ArrayList;
