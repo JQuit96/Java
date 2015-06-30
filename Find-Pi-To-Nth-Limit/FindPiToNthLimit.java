@@ -6,7 +6,7 @@ package findPiToNthLimit;
 
 /**
  * @author Julian D. Quitian
- * @date 6/16/2015
+ * @date 6/30/2015
  */
 
 import java.util.Scanner;
