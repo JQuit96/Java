@@ -8,7 +8,6 @@ package primeFactorization;
 /**
  * @author Julian D. Quitian
  * @date 6/27/2015
- * @version 1.0.0
  */
 
 import java.util.ArrayList;
