@@ -1,6 +1,5 @@
 /**
   *Display a welcome message on the screen
- *
  */
 public class HelloWorld
 {
