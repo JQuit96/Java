@@ -4,8 +4,8 @@ package CO2Footprints;
  */
 
 /**
- * @date August 12, 2013
- * @author Julian David Quitian
+ * @author Julian D. Quitian
+ * @date 6/30/2015
  */
 import java.util.ArrayList;
 public class CO2FootprintTester
