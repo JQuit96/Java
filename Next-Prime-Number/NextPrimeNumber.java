@@ -23,7 +23,7 @@ public class NextPrimeNumber{
     int userInput = 0;
     //Limits user input to desired values.
     do{
-      System.out.println("Press 1 to find the next prime number, and 2 to exit.");
+      System.out.println("Enter 1 to find the next prime number, and 2 to exit.");
       while(!in.hasNextInt()){
         System.out.println("1 for next prime integer, 2 to exit.");
         in.next();
