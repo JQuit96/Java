@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; 
 public class NextPrimeNumber{
   public static int NextPrimeNumber(int lastNumber) {
     lastNumber++;
