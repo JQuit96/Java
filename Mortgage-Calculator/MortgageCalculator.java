@@ -24,7 +24,7 @@ public class MortgageCalculator{
       System.out.println("Your monthly payment will be: $" + df.format(monthlyPayment));
     }
     else
-      continue;
+      return;
   }
   public static double[] getFixedCompoundingData(){
     double principal = getPositiveDoubleInput("Please enter principal", "Principal can only be a positive number");
