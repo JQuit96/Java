@@ -1,8 +1,0 @@
-do{
-	System.out.println("Instructions");
-	while(!in.hasNextInt()){
-		System.out.println("Further Instructions/Recommendations");
-		in.next();
-	}
-	userInput = in.nextInt();
-}while(Anti-Conditions);
