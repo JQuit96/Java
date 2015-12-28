@@ -1,6 +1,7 @@
 /**
  * Limit Calculator v1.0.0
  * Created by Julian D. Quitian on 12/28/2015.
+ * Jep Java API trial obtained from http://singularsys.com/jep/index.html
  */
 import com.singularsys.jep.Jep;     //Used to parse and evaluate function
 import com.singularsys.jep.JepException;        //Used to parse and evaluate function
