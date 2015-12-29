@@ -6,7 +6,6 @@
 import com.singularsys.jep.Jep;     //Used to parse and evaluate function
 import com.singularsys.jep.JepException;        //Used to parse and evaluate function
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class LimitCalculator {
