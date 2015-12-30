@@ -11,7 +11,7 @@ public class MergeSort {
         this.array = array;
         number = array.length;
         this.helper = new int[number];
-        mergeSort(0, number - 1);
+        mergeSort(0,number - 1);
     }
     public void mergeSort(int low, int high){
 
