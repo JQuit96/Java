@@ -5,7 +5,7 @@
 import java.util.Comparator;
 
 public class Point {
-    private double x, y;
+    public double x, y;
     public static final Comparator<Point> sortX = new compareX();
     public static final Comparator<Point> sortY = new compareY();
 
